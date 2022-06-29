@@ -1,1 +1,1 @@
-coding is cool
+Shell variables and expansions
